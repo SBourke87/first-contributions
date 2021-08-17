@@ -13541,6 +13541,7 @@
 - [Gustavo Tavares](https://github.com/gustavo600)
 - [Dennis Ruffer](https://github.com/DRuffer)
 - [Nate Cottrell](https://github.com/NC-Coyote)
+- [Sam Bourke](github.com/sbourke87)
 - [Ethan Khoe](https://github.com/elkhoe)
 - [Ana Carolina Gomes](https://github.com/lingsv)
 - [haziboro](https://github.com/haziboro)
@@ -13579,4 +13580,4 @@
 - [cyrkoe](https://github.com/CyrilKoe/)
 - [aviola](https://github.com/aviola/)
 - [Filip Ilić](https://github.com:MrKovalski)
-- [Sam Bourke](github.com/sbourke87)
+
